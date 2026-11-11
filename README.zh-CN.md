@@ -2,6 +2,8 @@
 
 [English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md)
 
+本文仅翻译文档；应用界面和语音对话仍使用英语。请使用下方英文示例试说，中文仅供理解。
+
 基于 Agora 和 Next.js 的诊所前台语音 AI 演示。了解虚构诊所、讨论期望就诊时间，并整理需要向诊所工作人员确认的问题。
 
 **[在 Agora Recipes 探索更多语音 AI 演示 →](https://recipes.agora.io/)**
@@ -125,7 +127,7 @@ Next.js 签发浏览器 token，并在启动 Agora Agent 时提供场景指令�
 
 ### 可以问助手什么？
 
-可询问诊所服务、就诊准备或如何表达预约需求。例如：“我想上午就诊，联系诊所前需要准备什么？”练习请使用虚构信息，无需患者标识或病历。
+可询问诊所服务、就诊准备或如何表达预约需求。例如：“I would prefer a morning visit. What should I prepare before contacting the clinic?”（意为“我想上午就诊，联系诊所前需要准备什么？”）练习请使用虚构信息，无需患者标识或病历。
 
 ### 为什么仍然需要联系诊所？
 
