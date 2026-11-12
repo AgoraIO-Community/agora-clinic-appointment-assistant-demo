@@ -4,6 +4,8 @@
 
 A clinic reception voice AI demo built with Agora and Next.js. Ask about a fictional clinic, talk through when you’d like to visit, and prepare questions for clinic staff.
 
+**[Try the live demo →](https://agora-clinic-appointment-assistant.vercel.app)**
+
 **[Explore more voice AI demos on Agora Recipes →](https://recipes.agora.io/)**
 
 [![Agora](https://img.shields.io/badge/Voice_AI-Agora-099DFD)](https://www.agora.io/en/products/conversational-ai-engine/)
@@ -73,6 +75,8 @@ pnpm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000), choose **Talk to clinic reception**, and allow microphone access. Ask the assistant to summarize the conversation if needed, then click the hang-up button (**End session**).
+
+Each session ends automatically after 10 minutes; choose Start again to continue.
 
 <a id="deployment"></a>
 
