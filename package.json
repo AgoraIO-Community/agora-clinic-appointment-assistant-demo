@@ -1,6 +1,6 @@
 {
   "name": "agora-clinic-appointment-assistant-demo",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Handle clinic questions and a complete simulated appointment conversation.",
   "private": true,
   "engines": {
